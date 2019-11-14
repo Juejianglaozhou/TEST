@@ -9,6 +9,7 @@
 3.	考虑操作中可能出现的异常，在程序中设计异常处理程序
 # 实验流程
 将长恨歌转换字符串数组，运用For循环和if语句将每7个字分为一组，与2做余数判断奇偶性加，和。.输入字符转换字符数组，与长恨歌字符串数组做相等判断，统计出现次数，添加异常结构。
+## 关键代码
 ```JAVA
  public static void main(String[] args) {
       try {
@@ -43,5 +44,9 @@
         e.printStackTrace();
     }
     }
-    ```
-    # 流程图
+```
+# 流程图
+
+# 实验结果
+[!哎呀](https://github.com/Juejianglaozhou/TEST/blob/master/结果.png)
+# 实验感想
