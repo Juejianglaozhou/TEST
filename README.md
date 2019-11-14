@@ -46,7 +46,8 @@
     }
 ```
 # 流程图
-
+![哎呀](https://github.com/Juejianglaozhou/TEST/blob/master/流程图.png)
 # 实验结果
-[!哎呀](https://github.com/Juejianglaozhou/TEST/blob/master/结果.png)
+![哎呀](https://github.com/Juejianglaozhou/TEST/blob/master/结果.png)
 # 实验感想
+通过本次实验，学会了字符串String及其方法的使用,掌握异常处理结构，通过这次实验，还发现自己对于JAVA语言的不足，在接下来学习JAVA语言的路上有了很大的帮助。感谢老师同学的指导！
